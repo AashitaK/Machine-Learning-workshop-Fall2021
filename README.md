@@ -59,7 +59,13 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 * Exploring the [TensorFlow Playground](https://playground.tensorflow.org/)
 * Application of the above concepts on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for training a neural network for sentiment analysis
 
-#### 6. Classification metrices (Friday, Nov 19th, 2021)
+#### 6. Convolution Neural Networks (Friday, Nov 19th, 2021)
+* Image preprocessing for neural networks
+* Feature extraction using convolution filters
+* Convolution Neural Network architecture (CNN)
+* Training a CNN model on CIFAR-10 dataset
+
+#### 7. Classification metrices (Tuesday, Nov 23rd, 2021)
 * Imbalanced datasets and classification metrices:
     * Confusion matrix
     * Decision Threshold
@@ -68,10 +74,5 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
     * Area Under ROC curve 
 * Mini-project: Building a spam detector using dataset from [Kaggle](https://www.kaggle.com)
 
-#### 7. Convolution Neural Networks (Tuesday, Nov 23rd, 2021)
-* Image preprocessing for neural networks
-* Feature extraction using convolution filters
-* Convolution Neural Network architecture (CNN)
-* Training a CNN model on CIFAR-10 dataset
 
 This page will be frequently updated with more information.
